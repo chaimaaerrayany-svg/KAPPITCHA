@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Kappitcha Hero</title>
+</head>
+
+<body style="text-align:center;font-family:Arial;background:#f5f5f5;">
+
+  <h1>🐱 Kappitcha Hero</h1>
+
+  <p>Welcome to the official Kappitcha website!</p>
+
+</body>
+</html>
