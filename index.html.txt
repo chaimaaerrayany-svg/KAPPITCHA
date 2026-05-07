@@ -10,5 +10,8 @@
 
   <p>Welcome to the official Kappitcha website!</p>
 
+  <!-- AJOUT D'UNE IMAGE -->
+  <img src="page 1.jpeg" alt="Kappitcha" width="300" style="margin-top:20px;">
+
 </body>
 </html>
